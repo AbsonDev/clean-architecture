@@ -8,7 +8,7 @@ Contexto do projeto
 - Sistema de Pontos para colaboradores
 
 - Iremos Utilizar
-- MediaR, UnitOfWork, Clean Architeture.
+- MediaR, UnitOfWork, AutoMapper, FluentValidation
 
 ---
 
