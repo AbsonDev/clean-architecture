@@ -7,7 +7,7 @@ Contexto do projeto
 
 - Sistema de Pontos para colaboradores
 
-- Iremos Utilizar
+- Iremos Utilizar CQRS e CleanArchiteture
 - MediaR, UnitOfWork, AutoMapper, FluentValidation
 
 ---
