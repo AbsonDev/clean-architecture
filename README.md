@@ -2,6 +2,14 @@ Com certeza! O seu texto é excelente e reflete um grande amadurecimento. Organi
 
 Aqui está a versão organizada do seu texto:
 
+
+Contexto do projeto
+
+- Sistema de Pontos para colaboradores
+
+- Iremos Utilizar
+- MediaR, UnitOfWork, Clean Architeture.
+
 ---
 
 # Clean Architecture: Uma Jornada de Aprendizado
