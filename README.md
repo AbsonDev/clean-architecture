@@ -9,6 +9,7 @@ Contexto do projeto
 
 - Iremos Utilizar CQRS e CleanArchiteture
 - MediaR, UnitOfWork, AutoMapper, FluentValidation
+- Testes com xUnit
 
 ---
 
